@@ -1,0 +1,18 @@
+﻿  Config.cpp
+  ImageIO.cpp
+  Intersection.cpp
+  Lighting.cpp
+  Raytrace.cpp
+C:\Users\User\Desktop\New folder (8)\RayTracerAss1\Stage3\Raytrace.cpp(185,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\New folder (8)\RayTracerAss1\Stage3\Raytrace.cpp(186,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\New folder (8)\RayTracerAss1\Stage3\Raytrace.cpp(187,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\New folder (8)\RayTracerAss1\Stage3\Raytrace.cpp(223,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\New folder (8)\RayTracerAss1\Stage3\Raytrace.cpp(223,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\New folder (8)\RayTracerAss1\Stage3\Raytrace.cpp(223,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Scene.cpp
+  Texturing.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 484 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Stage3.vcxproj -> C:\Users\User\Desktop\New folder (8)\RayTracerAss1\Release\Stage3.exe
